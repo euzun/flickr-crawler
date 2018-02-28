@@ -14,4 +14,4 @@
 ## Citation
 * Please cite to following paper(s) if you use this crawler for academic purpose;
 
-E. Uzun and H. T. Sencar, “Carving orphaned jpeg file fragments”, IEEETransactions on Information Forensics and Security, vol. 10, no. 8, pp.1549–1563, 2015.
+* E. Uzun and H. T. Sencar, “[Carving orphaned jpeg file fragments](https://www.researchgate.net/publication/275044127_Carving_Orphaned_JPEG_File_Fragments)”, IEEETransactions on Information Forensics and Security, vol. 10, no. 8, pp.1549–1563, 2015.
